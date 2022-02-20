@@ -9,4 +9,5 @@ On the ipynb file "2_plantVillage_train.ipynb" there are numpy files loaded whic
 https://drive.google.com/drive/folders/1x-qRbDOLDk5Q5mPrFJ1jHgp1Z_VT6AqG?usp=sharing
 
 
+-- The class imbalnce problem need to be solved here, will be working after some days on it 😁😅
 
